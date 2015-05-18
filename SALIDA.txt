@@ -1,0 +1,6 @@
+Ingrese la base:
+3
+Ingrese la altura:
+2
+El perimetro es: 10
+
